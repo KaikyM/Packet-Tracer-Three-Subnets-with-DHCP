@@ -7,8 +7,8 @@ I connected two PCs (they have IPs) with Crossover cable.
 - 1 – Crossover Cable
 - 8 - Straight-Through Cable
 - 4 – PCs
-- 2 - Switchs
-- 2 - Routers
+- 2 - Switchs(2960-24TT)
+- 2 - Routers(1941)
 - 2 - DHCP Servers
 
 ## Schematic Project
