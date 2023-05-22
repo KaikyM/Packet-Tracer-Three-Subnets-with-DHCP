@@ -1,7 +1,7 @@
 # Three-Subnets-with-DHCP
 
 ## Contextualization
-I connected two PCs (they have IPs) with Crossover cable.
+I connected two networks with three subnets and two routers. For PCs, I used a DHCP server to assign IPs, and switches as bridges.
 
 ## Devices:
 - 1 – Crossover Cable
