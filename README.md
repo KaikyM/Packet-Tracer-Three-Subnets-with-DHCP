@@ -23,3 +23,4 @@ I connected two networks with three subnets and two routers. For PCs, I used a D
 |192.168.0.64|192.168.0.65 - 192.168.0.126|192.168.0.127|255.255.255.192|
 |192.168.0.128|192.168.0.129 - 192.168.0.190|192.168.0.191|255.255.255.192|
 |192.168.0.192|192.168.0.193 - 192.168.0.254|192.168.0.255|255.255.255.192|
+- https://www.calculator.net/ip-subnet-calculator.html
